@@ -21,7 +21,7 @@ she needs electrons to keep her live and the flashlight working.
 Her pet Doggie is a useful friend which can see the lost parts of the spacecraft and help A to pick the up.
 
 
-Don't run out A's power and prtect them from the attack from electron eaters.
+Don't run out A's power and protect them from the electron eaters' attacking.
 Help them to find all the lost parts and back to spacecarft.
 #####################################
 Control:
@@ -31,9 +31,27 @@ l: to turn up flashlight but use power;
 i: to turn down flashlight;
 k: use strong light to attack electron eaters but use power;
 
+Item:
+
+Blue ball: ELECTRON! Fill it up with A's body.
+
+White ball: be visible while controlling pet.
+
+
 #####################################
-Model:
+Models:
 A's model and Doggie's are downloaded from unity assets store.
 
+#####################################
+Codes:
+in unity folder/assets 
 
+######################################
+where to play:
+Enter the unity folder
+Mac: Electro_mac
+Windows: Electro_win
 
+#####################################
+
+٩(ˊᗜˋ*)و٩(ˊᗜˋ*)و٩(ˊᗜˋ*)و٩(ˊᗜˋ*)و٩(ˊᗜˋ*)و٩(ˊᗜˋ*)و٩(ˊᗜˋ*)و٩(ˊᗜˋ*)و٩(ˊᗜˋ*)و٩(ˊᗜˋ*)و٩(ˊᗜˋ*)و٩(ˊᗜˋ*)و
