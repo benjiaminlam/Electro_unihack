@@ -48,8 +48,11 @@ in unity folder/assets
 
 ######################################
 where to play:
+
 Enter the unity folder
+
 Mac: Electro_mac
+
 Windows: Electro_win
 
 #####################################
